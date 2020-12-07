@@ -58,7 +58,7 @@ button, .btn {
     font-weight: bolder;
     max-width: 250px;
     max-height: 160px;
-    background-image: url(nyg.png);
+    background-color: lightgray;
     text-align: center;
     border-style: solid;
     
